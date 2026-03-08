@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+scikit-learn
+prometheus-client
+psycopg2-binary
+pydantic
